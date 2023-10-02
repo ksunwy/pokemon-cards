@@ -4,6 +4,10 @@ This is card with information of Pokemons.
 
 I was using React Native
 
+## PREVIEW
+
+![Pokemon card](assets/preview.jpeg)
+
 ## INSTALLATION
 
 ```
